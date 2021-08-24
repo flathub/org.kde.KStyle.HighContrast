@@ -1,4 +1,5 @@
 {
   "end-of-life": "This plugin is no longer maintained, please use org.kde.KStyle.Adwaita instead.",
-  "end-of-life-rebase": "org.kde.KStyle.Adwaita"
+  "end-of-life-rebase": "org.kde.KStyle.Adwaita",
+  "skip-icons-check": true
 }
